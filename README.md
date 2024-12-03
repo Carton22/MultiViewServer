@@ -18,9 +18,6 @@ For UMN CSCI5127W Tutorial
    python main.py
    ```
 
-
-## To
-
 ## To use the prompt.py:
 
 1. pip install openai
