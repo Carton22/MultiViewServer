@@ -1,0 +1,7 @@
+google-cloud-vision
+selenium
+numpy
+opencv-python
+requests
+python-socketio
+openai

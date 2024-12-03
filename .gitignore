@@ -1,0 +1,33 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore processed_files.json
+processed_files.json
+
+# Ignore some files in server folder
+server/node_modules/
+
+# Ignore the entire images directory
+images/
